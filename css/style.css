@@ -8,10 +8,11 @@ body{
     padding: 50px;
     padding-right: 80px;
 }
-header{
+nav{
     background-color: rgb(70, 68, 68);
     padding-bottom: 25px;
     width: 100%;
+    position: relative;
 }
 #logo{
     margin-left: 8%;
@@ -23,7 +24,7 @@ ul li{
     color: gray;
     margin-left: 80px;
     padding-top: 50px;
-    margin-top: 10px;  
+    margin-top: 10px;
 }
 #p1{
     width: 100%;
